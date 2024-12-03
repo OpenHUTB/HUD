@@ -11,6 +11,11 @@ LIBRA supports designers to customize and automatically check the compliance of 
 
 # Software Usage Conditions
 
+## 0. 快速运行
+
+- 启动`CarlaUE4.exe`
+- 依次运行脚本`hud_main.py`、`carla_main.py`
+
 ## 1. CARLA Install
 
 - **Install Dependencies**
